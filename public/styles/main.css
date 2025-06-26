@@ -12,7 +12,12 @@ body {
 }
 body {
   background: #21252b;
+<<<<<<< HEAD
   font-family: "Roboto", sans-serif;
+=======
+
+  color: #d3ddef;
+>>>>>>> 8c92425237d8d532f4119c21d5f7db52527e0d4a
 }
 
 .ag-canvas {
@@ -75,7 +80,10 @@ input {
   padding: 15px;
   box-sizing: border-box;
   font-size: 14px;
+<<<<<<< HEAD
   padding-left: 21px;
+=======
+>>>>>>> 8c92425237d8d532f4119c21d5f7db52527e0d4a
 }
 
 button {
@@ -102,6 +110,7 @@ button {
   left: 0;
   bottom: 0;
 }
+<<<<<<< HEAD
 
 .tab-view {
   margin: 0;
@@ -448,3 +457,5 @@ button {
     display: none;
   }
 }
+=======
+>>>>>>> 8c92425237d8d532f4119c21d5f7db52527e0d4a
